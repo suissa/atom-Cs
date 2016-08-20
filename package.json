@@ -1,0 +1,30 @@
+{
+  "name": "atom-cs",
+  "version": "1.0.0",
+  "description": "Propriedades do átomo de Césio",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/atom-Cs.git"
+  },
+  "keywords": [
+    "atom",
+    "átomo",
+    "cs",
+    "Césio",
+    "química",
+    "chemistry",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/atom-Cs/issues"
+  },
+  "homepage": "https://github.com/suissa/atom-Cs#readme"
+}
